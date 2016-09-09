@@ -1,0 +1,15 @@
+This AtoMorph-GUI implementation is deprecated because it uses
+an older version of the AtoMorph Library. The latter has to be
+compiled using the `deprecated` build target.
+
+AtoMorph-GUI requires Allegro5.1 installed on your system.
+
+Build instructions:
+    Run make in this folder.
+    Edit the Makefile if needed.
+
+Alternative build instructions:
+    Use CodeBlocks and open AtoMorph-GUI.cbp.
+
+If you like this software, please consider making a donation
+by sending Bitcoins to 1Erich1YUdkUAp9ynf4Rfw2ug8nBtuUmMu.

@@ -1,0 +1,9 @@
+ImageMagick is needed for these tests to run properly:
+
+sudo apt-get update
+sudo apt-get install imagemagick --fix-missing 
+
+The completion of all of the tests requires approximately 10 minutes.
+However, some of the individual tests finish within seconds. Feel free
+to examine the test scripts and modify the parameters.
+

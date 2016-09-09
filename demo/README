@@ -1,0 +1,12 @@
+Build instructions:
+    Run make in this folder.
+    Edit the Makefile if needed.
+    
+Testing out AtoMorph:
+    See README in tests folder.
+
+For a graphical version of AtoMorph:
+    See README in allegro5 folder.
+
+If you like this software, please consider making a donation
+by sending Bitcoins to 1Erich1YUdkUAp9ynf4Rfw2ug8nBtuUmMu.
