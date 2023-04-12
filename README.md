@@ -15,5 +15,3 @@ Build instructions:
 Example usage:
     See README in demo folder.
 
-If you like this software, please consider making a donation
-by sending Bitcoins to 1Erich1YUdkUAp9ynf4Rfw2ug8nBtuUmMu.
